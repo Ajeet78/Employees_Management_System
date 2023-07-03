@@ -2,7 +2,7 @@
 Employees Management System
 
 **Features:**
-         Employee ID, 
-         Employee Name,
-         Employee Department,
-         Employee Salary
+1. Add Employee, 
+2. Update Employee Salary, 
+3. Display All Employees, 
+4. Exit
